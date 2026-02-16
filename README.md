@@ -13,7 +13,7 @@
 
 <h3>Connect with me:</h3>
 <p><a target="_blank" href="https://www.linkedin.com/in/guilherme-wilhner-602878a4/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/linkedin/linkedin-original.svg" alt="HTML" width="42" height="42" /></a>
-<a target="_blank" href="mailto:guilhermewilhner@gmail.com" style="display: inline-block;"><img src="https://img.icons8.com/?size=100&id=CTXHIG9M1gwW&format=png&color=000000" alt="HTML" width="42" height="42" /></a></p>
+<a target="_blank" href="mailto:guilhermewilhner@gmail.com" style="display: inline-block;"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="HTML" width="42" height="42" /></a></p>
 
 
 ![alt text](./imgs/1.png)
