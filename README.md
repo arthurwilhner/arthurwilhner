@@ -1,6 +1,6 @@
 ![alt text](./imgs/top.png)
 
-<p>A developer stationed in Santa Catarina, Brazil 🇧🇷 <br> Currently persuing a degree in Web Systems Analysis and Development at PUC-RS.</p>
+<p>A developer stationed in Santa Catarina, Brazil 🇧🇷 <br> Currently persuing a degree in Web Systems Analysis and Development at PUC-RS. <br> Open to work opportunities!</p>
 <p>I have a strong passion for software engineering, Web Systems, IoT and Embedded Systems.</p>
 <h2>Languages and tools that I use:</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
