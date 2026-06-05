@@ -1,4 +1,4 @@
-![alt text](./imgs/top.png)
+<h1>Hello, my name is Guilherme Wilhner</h1>
 
 <p>A developer stationed in Santa Catarina, Brazil 🇧🇷 <br> Currently persuing a degree in Web Systems Analysis and Development at PUC-RS. <br> Open to work opportunities!</p>
 <p>I have a strong passion for software engineering, Web Systems, IoT and Embedded Systems.</p>
@@ -14,5 +14,3 @@
 <a href="https://www.linkedin.com/in/guilherme-wilhner-602878a4/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/linkedin/linkedin-original.svg" width="42" /></a> <a href="mailto:guilhermewilhner@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="42" /></a>
 
 <br>
-
-![alt text](./imgs/1.png)
