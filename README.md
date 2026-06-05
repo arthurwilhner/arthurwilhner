@@ -1,4 +1,4 @@
-<h1>Hello, my name is Guilherme Wilhner</h1>
+<h1>Hello, I'm Guilherme Wilhner!</h1>
 
 <p>A developer stationed in Santa Catarina, Brazil 🇧🇷 <br> Currently persuing a degree in Web Systems Analysis and Development at PUC-RS. <br> Open to work opportunities!</p>
 <p>I have a strong passion for software engineering, Web Systems, IoT and Embedded Systems.</p>
